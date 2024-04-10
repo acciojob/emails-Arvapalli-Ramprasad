@@ -2,7 +2,7 @@ package com.driver;
 
 import java.util.ArrayList;
 import java.util.Date;
-
+import ava.lang.String;
 public class Gmail extends Email {
 
     private ArrayList<Mail> inbox;
